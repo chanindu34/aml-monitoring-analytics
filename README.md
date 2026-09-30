@@ -2,7 +2,7 @@
 
 Can a machine learning model catch more money laundering than rule-based alerts, given the same analyst workload?
 
-This project analyses 5.08M transactions end to end: data engineering, statistical risk analysis, rule simulation, an out-of-time ML model and interactive Tableau dashboards.
+This project analyses 5.08M synthetic bank transactions (the IBM AML dataset) end to end: data engineering, statistical risk analysis, rule simulation, an out-of-time ML model and interactive Tableau dashboards.
 
 - [Live dashboards on Tableau Public](https://public.tableau.com/app/profile/chanindu.dahanayake/viz/AMLTransactionMonitoringAnalytics/D1ExecutiveRiskOverview)
 - [Decision log (28 design decisions)](docs/decision_log.md)
