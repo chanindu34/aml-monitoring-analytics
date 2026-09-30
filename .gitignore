@@ -1,0 +1,7 @@
+outputs/tableau/
+*.duckdb
+*.wal
+data/
+.venv/
+__pycache__/
+.DS_Store
